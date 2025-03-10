@@ -1,5 +1,7 @@
 # Adaptive Modular Network (AMN): A Technical Overview
 
+Date: Monday March 10th, 2025<br>
+
 ## Table of Contents
 
 - [Executive Summary](#executive-summary)
